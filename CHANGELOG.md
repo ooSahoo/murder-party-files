@@ -23,3 +23,9 @@ Prima raccolta strutturata delle decisioni concordate in conversazione.
 **Da verificare:** Piqure, cronologia dei giornali, verdetto e schede personaggio; correzioni editoriali e pagine di alcuni indizi.
 
 **Nota tecnica:** prima versione prodotta come file scaricabili. Il tentativo di scrittura diretta sulla repository GitHub è stato bloccato, non è stato creato alcun commit.
+
+## Aggiornamenti approvati dopo v0.2 | 27 ottobre 2026
+- Madeleine: segreto e comportamento revisionati; consapevolezza della manipolazione fin dall'inizio, progressivo smascheramento agli altri.
+- Émilie: distinti fazzoletto lasciato per caso nei giorni precedenti e malore autentico della sera del 20 settembre; revisionati segreto, obiettivi e comportamento suggerito.
+- Jacques: revisionati segreto, obiettivi e comportamento suggerito; deciso di non aggiungere altre false piste.
+- Copione: approvata nuova battuta finale del commissario nell'interrogatorio di Jacques per non scagionarlo prematuramente. Applicazione in Canva ancora da confermare.
