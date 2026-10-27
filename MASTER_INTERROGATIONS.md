@@ -29,3 +29,10 @@ Dopo la presentazione del quarto indizio, testimonianza del dottor Piqure:
 - Il master non suggerisce risposte e non corregge in diretta bugie, bluff o dichiarazioni non verificabili.
 - Le affermazioni possono essere contestate attraverso gli indizi; non si richiede che ogni risposta abbia una confutazione univoca.
 - La verifica editoriale riguarda la cronologia delle rivelazioni e l'assenza di conoscenze premature nelle domande del commissario.
+
+## Émilie: domanda conclusiva approvata
+**Collocazione:** dopo il quinto indizio (certificato medico del dottor Bardonnet), nell'interrogatorio di Émilie.
+
+> «Signorina Rousseau, il certificato medico potrebbe spiegare la presenza del suo fazzoletto insanguinato nello studio di Monsieur Marceau. Tuttavia, lei possedeva una copia delle chiavi e non abbiamo ancora una testimonianza che confermi dove si trovasse la sera del 20 settembre. Come spiega queste circostanze?»
+
+**Verifica cronologica:** il fazzoletto emerge nella ricerca iniziale; le chiavi e il certificato sono già stati mostrati prima di questa domanda. Il certificato non prova quando fu lasciato il fazzoletto e non costituisce un alibi. Risposta del giocatore libera.
