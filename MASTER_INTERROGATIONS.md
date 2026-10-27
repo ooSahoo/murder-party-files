@@ -22,3 +22,10 @@ Dopo la presentazione del quarto indizio, testimonianza del dottor Piqure:
 > «Signor Martin, il registro dei conti dimostra che aveva più di una ragione per nutrire rancore verso Antoine Marceau. Inoltre, secondo quanto riferito dal dottor Piqure, avrebbe trascorso la notte al Club per Signori di Montmartre. Può spiegare come si concilia questa versione con i suoi spostamenti della sera del 20 settembre?»
 
 **Stato:** proposta non ancora approvata. La domanda non anticipa la testimonianza di Lambert, che compare nel giornale della sera dopo gli interrogatori. Adrien può riferire i propri ricordi confusi senza conoscere la soluzione.
+
+## Regola di conduzione approvata
+- Il commissario pone domande preparate, basate esclusivamente sugli indizi già emersi in quel punto della scaletta.
+- I giocatori rispondono liberamente in ruolo: non si scrivono risposte prestabilite.
+- Il master non suggerisce risposte e non corregge in diretta bugie, bluff o dichiarazioni non verificabili.
+- Le affermazioni possono essere contestate attraverso gli indizi; non si richiede che ogni risposta abbia una confutazione univoca.
+- La verifica editoriale riguarda la cronologia delle rivelazioni e l'assenza di conoscenze premature nelle domande del commissario.
