@@ -78,7 +78,7 @@ Non suggerire collegamenti probatori non dimostrati per bastoni e sigari; lascia
 5. **Testimonianza di Fournier:** «Monsieur Fournier riferisce di averla vista rientrare da sola alle 23:15. Dove era stata dopo lo spettacolo e chi stava cercando?»
 6. **Conclusione aggiornata, sostituisce quella precedente sull'alibi:** «Mademoiselle Dubois, sappiamo che aveva un rapporto con Antoine Marceau e che era legata anche ad Adrien Martin. Le chiedo dunque di chiarire una cosa: quale dei due uomini conosceva la verità sui suoi sentimenti?»
 
-Lasciare risposte libere. Non dichiarare esplicitamente il piano di manipolare Antoine; non leggere l'incisione del braccialetto. La conclusione precedentemente approvata resta nel documento solo come storico, ma è sostituita da questa.
+Lasciare risposte libere. La lettera esplicita già il piano economico: il commissario può richiamarlo dopo aver mostrato la prova. Non leggere l'incisione del braccialetto. La conclusione precedentemente approvata resta nel documento solo come storico, ma è sostituita da questa.
 
 ## Adrien: sequenza interattiva approvata
 1. **Apertura:** «Monsieur Martin, dove si trovava la sera del 20 settembre, tra le 21:00 e le 22:30? C'è qualcuno che possa confermare i suoi spostamenti?»
@@ -89,3 +89,10 @@ Lasciare risposte libere. Non dichiarare esplicitamente il piano di manipolare A
 6. **Conclusione:** «Monsieur Martin, aveva motivi economici per essere in contrasto con Antoine Marceau e sappiamo che alle 21:00 si trovava ancora nel palazzo. Ma non abbiamo chiarito cosa sia accaduto nelle ore successive. C'è qualcosa che non ci ha ancora raccontato?»
 
 Risposte libere, nessuna ammissione obbligatoria. La testimonianza di Lambert compare solo nel giornale serale successivo agli interrogatori e non va anticipata. Adrien era sobrio al momento del delitto e si è ubriacato solo dopo: la domanda sul vino non costituisce prova di ubriachezza prima o durante l'omicidio. Questa sequenza sostituisce le precedenti proposte di domanda conclusiva di Adrien.
+
+## Correzioni di coerenza approvate
+- Émilie: non introdurre come alibi la visita di Madame Bertrand delle 20:30, non distribuita nella sequenza ufficiale. Il malore non è un alibi corroborato.
+- Madeleine: domanda sulla lettera aggiornata nella sequenza sopra. La lettera ad Antoine emerge nella ricerca iniziale; quella ad Adrien durante l'interrogatorio.
+- Adrien: la degustazione di vino precedente alle 19:45 non prova ubriachezza al momento dell'omicidio. La grave ubriachezza e l'amnesia seguono il delitto.
+- Jacques: la pergamena reca la data del 20 settembre, non un orario; non prova un alibi.
+- Verdetto: Adrien dichiara il Club per Signori per vergogna, non per costruire un falso alibi consapevole. L'orologio A.M. si trova sul pavimento dello studio accanto al corpo, non nell'alloggio. Il registro CLUES.md segnala correzioni già apportate dall'autrice in Canva: verificare il nuovo PDF esportato prima di richiedere altre modifiche.
