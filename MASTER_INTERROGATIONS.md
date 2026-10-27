@@ -36,3 +36,11 @@ Dopo la presentazione del quarto indizio, testimonianza del dottor Piqure:
 > «Signorina Rousseau, il certificato medico potrebbe spiegare la presenza del suo fazzoletto insanguinato nello studio di Monsieur Marceau. Tuttavia, lei possedeva una copia delle chiavi e non abbiamo ancora una testimonianza che confermi dove si trovasse la sera del 20 settembre. Come spiega queste circostanze?»
 
 **Verifica cronologica:** il fazzoletto emerge nella ricerca iniziale; le chiavi e il certificato sono già stati mostrati prima di questa domanda. Il certificato non prova quando fu lasciato il fazzoletto e non costituisce un alibi. Risposta del giocatore libera.
+
+## Madeleine: domanda conclusiva approvata
+**Collocazione:** al termine dell'interrogatorio di Madeleine, dopo la testimonianza di Fournier e prima dell'interrogatorio di Adrien.
+
+> «Signorina Dubois, le testimonianze raccolte non chiariscono tutti i suoi spostamenti della sera del 20 settembre. Inoltre, abitando nello stesso palazzo di Monsieur Marceau, avrebbe potuto raggiungere facilmente il suo studio. Può dirci dove si trovava nelle ore in cui è avvenuto l'omicidio?»
+
+**Verifica cronologica:** il referto medico (21:00–22:30) e la testimonianza di Fournier sono già disponibili. Il giornale della sera con la testimonianza di Lambert non è ancora stato letto. Madeleine può rispondere liberamente, anche richiamando la sua esibizione; questa non certifica necessariamente la sua presenza sul palco durante tutta la finestra dell'omicidio.
+**Stato:** approvata il 27 ottobre 2026.
