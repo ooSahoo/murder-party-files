@@ -74,7 +74,7 @@ Non suggerire collegamenti probatori non dimostrati per bastoni e sigari; lascia
 1. **Apertura:** «Mademoiselle Dubois, sappiamo che la sera del 20 settembre si è esibita al Café des Artistes. Ma dove si trovava esattamente tra le 21:00 e le 22:30? Qualcuno può confermare i suoi spostamenti?»
 2. **Statuetta ammaccata:** «Tra gli oggetti rinvenuti figura questa statuetta, che presenta un'evidente ammaccatura. Sa dirci se l'aveva mai vista prima?»
 3. **Braccialetto:** mostrare l'oggetto e lasciare osservare l'incisione senza leggerla ad alta voce. «A chi appartiene questo gioiello, Mademoiselle?»
-4. **Lettera ad Adrien:** «Questa lettera suggerisce che tra lei e Monsieur Martin esista un legame molto stretto. Qual è la natura del vostro rapporto? E Antoine Marceau ne era al corrente?»
+4. **Lettera ad Adrien:** «Mademoiselle Dubois, in questa lettera definisce Adrien Martin il suo unico vero amore e ammette di aver cercato di ottenere denaro da Antoine Marceau. Era tutto parte di un accordo tra voi due?»
 5. **Testimonianza di Fournier:** «Monsieur Fournier riferisce di averla vista rientrare da sola alle 23:15. Dove era stata dopo lo spettacolo e chi stava cercando?»
 6. **Conclusione aggiornata, sostituisce quella precedente sull'alibi:** «Mademoiselle Dubois, sappiamo che aveva un rapporto con Antoine Marceau e che era legata anche ad Adrien Martin. Le chiedo dunque di chiarire una cosa: quale dei due uomini conosceva la verità sui suoi sentimenti?»
 
