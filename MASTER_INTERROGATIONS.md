@@ -52,3 +52,10 @@ Ogni sospettato riceve circa tre domande brevi, con una quarta facoltativa se il
 3. **Indizi**, dopo la loro presentazione, usando la domanda conclusiva specifica già approvata o ancora in revisione.
 4. **Facoltativa**, solo per approfondire una risposta interessante o contraddittoria.
 Il commissario ascolta le risposte libere dei giocatori e non suggerisce battute. Le domande devono rispettare la sequenza di rivelazione delle prove; non anticipare la testimonianza di Lambert nel giornale della sera. Le domande aggiuntive personalizzate devono essere ancora stese e approvate una per una.
+
+## Émilie: sequenza interattiva definitiva (approvata)
+1. **Apertura, dopo il referto medico e all'inizio del suo interrogatorio:** «Signorina Rousseau, dove si trovava la sera del 20 settembre, tra le 21:00 e le 22:30? Qualcuno può confermare la sua versione?»
+2. **Dopo il taccuino dei disegni:** «Dai suoi disegni emerge un legame molto personale con Monsieur Marceau. Che rapporto avevate realmente? E come ha reagito quando ha scoperto il suo interesse per Madeleine Dubois?»
+3. **Dopo il certificato medico:** «Signorina Rousseau, il certificato medico potrebbe spiegare la presenza del suo fazzoletto insanguinato nello studio di Monsieur Marceau. Tuttavia, lei possedeva una copia delle chiavi e non abbiamo ancora una testimonianza che confermi dove si trovasse la sera del 20 settembre. Come spiega queste circostanze?»
+
+Lasciare spazio a risposte libere tra le domande. Non anticipare il certificato medico prima dell'ultimo indizio. Questa sequenza sostituisce l'uso isolato della sola domanda conclusiva, già registrata sopra.
