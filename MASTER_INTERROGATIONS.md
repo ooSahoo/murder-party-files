@@ -79,3 +79,13 @@ Non suggerire collegamenti probatori non dimostrati per bastoni e sigari; lascia
 6. **Conclusione aggiornata, sostituisce quella precedente sull'alibi:** «Mademoiselle Dubois, sappiamo che aveva un rapporto con Antoine Marceau e che era legata anche ad Adrien Martin. Le chiedo dunque di chiarire una cosa: quale dei due uomini conosceva la verità sui suoi sentimenti?»
 
 Lasciare risposte libere. Non dichiarare esplicitamente il piano di manipolare Antoine; non leggere l'incisione del braccialetto. La conclusione precedentemente approvata resta nel documento solo come storico, ma è sostituita da questa.
+
+## Adrien: sequenza interattiva approvata
+1. **Apertura:** «Monsieur Martin, dove si trovava la sera del 20 settembre, tra le 21:00 e le 22:30? C'è qualcuno che possa confermare i suoi spostamenti?»
+2. **Testimonianza di Madame Bertrand:** «Madame Bertrand riferisce di averla vista lasciare l'appartamento di Madeleine Dubois intorno alle 21:00. Dove era diretto?»
+3. **Collezione di vini rossi:** «Abbiamo trovato nella sua abitazione una collezione di vini rossi. È un appassionato, Monsieur Martin? Ha consumato del vino anche la sera del 20 settembre?»
+4. **Registro finanziario:** «Questo registro documenta importanti somme di denaro che Antoine Marceau le doveva. Quali conseguenze avevano questi debiti sulla sua situazione finanziaria? Aveva chiesto a Marceau di restituirle il denaro?»
+5. **Testimonianza del dottor Piqure:** «Il dottor Piqure riferisce che, secondo quanto appreso dal suo assistente Jérôme, lei avrebbe trascorso una notte di eccessi al Club per Signori di Montmartre. Può raccontarci come si è conclusa la sua serata?»
+6. **Conclusione:** «Monsieur Martin, aveva motivi economici per essere in contrasto con Antoine Marceau e sappiamo che alle 21:00 si trovava ancora nel palazzo. Ma non abbiamo chiarito cosa sia accaduto nelle ore successive. C'è qualcosa che non ci ha ancora raccontato?»
+
+Risposte libere, nessuna ammissione obbligatoria. La testimonianza di Lambert compare solo nel giornale serale successivo agli interrogatori e non va anticipata. Adrien era sobrio al momento del delitto e si è ubriacato solo dopo: la domanda sul vino non costituisce prova di ubriachezza prima o durante l'omicidio. Questa sequenza sostituisce le precedenti proposte di domanda conclusiva di Adrien.
