@@ -51,3 +51,10 @@ Testimonianza Piqure, giornale della sera, necrologio, scheda Adrien e passaggi 
 `1_MP_prizes.pdf`; `2_MP_hints2.pdf`; `3_MP_newspapers matin.pdf`; `4_MP_newspaper_soir.pdf`; `5_MP_Personaggi (A4 (orizzontale)).pdf`; `inteviste pilotate------.pdf`. `interrogatori(1).docx` è una versione precedente, non il copione di riferimento.
 
 **Regola:** non trasformare proposte editoriali in modifiche approvate senza conferma dell'autrice.
+
+## Revisioni delle schede e del copione approvate dopo v0.2
+- **Madeleine:** segreto esplicita relazione con Adrien, piano di fuga e manipolazione consapevole di Antoine; comportamento aggiornato per gestire l'emersione delle lettere. Le lettere smascherano Madeleine agli altri, non le rivelano le sue azioni.
+- **Émilie:** attacco di tosse nello studio e fazzoletto dimenticato accidentalmente **nei giorni precedenti il 20 settembre**; malore autentico la sera del 20 settembre le impedisce di affrontare Antoine. Due episodi distinti. Obiettivi e comportamento suggerito revisionati, senza inventare un alibi verificato.
+- **Jacques:** segreto aggiornato: teme che Antoine renda pubblici affari illeciti; progettava di screditarlo, non di ucciderlo. Obiettivi e comportamento rivisti; falsa pista già sostenuta da movente, lite, sigari e possibili armi, senza nuove prove inventate.
+- **Copione, interrogatorio Jacques:** sostituire la battuta finale del commissario che lo scagiona prematuramente con: «Signor Lefevre, le sue rivalità con Antoine Marceau sono ormai evidenti, così come le ragioni che avrebbe avuto per desiderarne il silenzio. Gli elementi raccolti non dimostrano la sua presenza nello studio al momento dell'omicidio, ma nemmeno la escludono. Le consiglio, pertanto, di non considerare conclusa la sua posizione.»
+- **Stato:** le revisioni delle schede dichiarate applicate dall'autrice sono registrate; l'ultima battuta del commissario è approvata ma non ancora confermata come applicata in Canva.
