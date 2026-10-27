@@ -59,3 +59,13 @@ Il commissario ascolta le risposte libere dei giocatori e non suggerisce battute
 3. **Dopo il certificato medico:** «Signorina Rousseau, il certificato medico potrebbe spiegare la presenza del suo fazzoletto insanguinato nello studio di Monsieur Marceau. Tuttavia, lei possedeva una copia delle chiavi e non abbiamo ancora una testimonianza che confermi dove si trovasse la sera del 20 settembre. Come spiega queste circostanze?»
 
 Lasciare spazio a risposte libere tra le domande. Non anticipare il certificato medico prima dell'ultimo indizio. Questa sequenza sostituisce l'uso isolato della sola domanda conclusiva, già registrata sopra.
+
+## Jacques: sequenza interattiva approvata
+1. **Apertura:** «Monsieur Lefevre, dove si trovava la sera del 20 settembre, tra le 21:00 e le 22:30? Qualcuno può confermare la sua versione?»
+2. **Testimonianza di Madame Leroi:** «Madame Leroi sostiene di aver assistito a un violento litigio tra lei e Antoine Marceau per questioni lavorative. Non ricorda quando sia accaduto, ma afferma di non averla mai vista tanto furioso. Qual era il motivo della discussione?»
+3. **Bastoni:** «Nel suo appartamento abbiamo trovato una notevole collezione di bastoni da passeggio di rara fattura. Ne prendiamo atto.»
+4. **Sigari Farrons:** «Abbiamo inoltre rinvenuto un pacco di sigari Farrons, particolarmente pregiati. Anche questo elemento sarà registrato.»
+5. **Pergamena:** «Questa pergamena attesta il suo contributo alla fondazione del circolo “Giovani di Montparnasse nelle belle arti” e riporta proprio la data del 20 settembre. Può spiegarci in quali circostanze le è stata conferita?»
+6. **Conclusione:** «Le sue rivalità con Antoine Marceau sono evidenti, così come le ragioni che avrebbe avuto per desiderarne il silenzio. Gli elementi raccolti non dimostrano la sua presenza nello studio al momento dell'omicidio, ma nemmeno la escludono. La sua posizione rimane aperta.»
+
+Non suggerire collegamenti probatori non dimostrati per bastoni e sigari; lasciare libere le risposte. L'utente ha già corretto autonomamente 'Georges' in 'Jacques' nella testimonianza di Madame Leroi.
