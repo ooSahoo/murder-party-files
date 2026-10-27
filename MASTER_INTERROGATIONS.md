@@ -44,3 +44,11 @@ Dopo la presentazione del quarto indizio, testimonianza del dottor Piqure:
 
 **Verifica cronologica:** il referto medico (21:00–22:30) e la testimonianza di Fournier sono già disponibili. Il giornale della sera con la testimonianza di Lambert non è ancora stato letto. Madeleine può rispondere liberamente, anche richiamando la sua esibizione; questa non certifica necessariamente la sua presenza sul palco durante tutta la finestra dell'omicidio.
 **Stato:** approvata il 27 ottobre 2026.
+
+## Struttura degli interrogatori approvata (27 ottobre 2026)
+Ogni sospettato riceve circa tre domande brevi, con una quarta facoltativa se il dialogo lo richiede. Obiettivo: realismo e interazione senza dilungare la scena.
+1. **Alibi**, dopo il referto e all'inizio del rispettivo interrogatorio: «Dove si trovava la sera del 20 settembre, tra le 21:00 e le 22:30? C'è qualcuno che possa confermare la sua versione?»
+2. **Movente**, adattata al personaggio e alle informazioni già pubbliche in quel momento.
+3. **Indizi**, dopo la loro presentazione, usando la domanda conclusiva specifica già approvata o ancora in revisione.
+4. **Facoltativa**, solo per approfondire una risposta interessante o contraddittoria.
+Il commissario ascolta le risposte libere dei giocatori e non suggerisce battute. Le domande devono rispettare la sequenza di rivelazione delle prove; non anticipare la testimonianza di Lambert nel giornale della sera. Le domande aggiuntive personalizzate devono essere ancora stese e approvate una per una.
