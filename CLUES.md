@@ -57,3 +57,8 @@ Le correzioni confermate dall'autrice sono applicate manualmente in Canva; la pr
 
 ## Controlli editoriali ancora da verificare nelle esportazioni
 MONCEAU → MARCEAU; JAQUES → JACQUES; anacronismo Musée d'Orsay; nel verdetto correggere la posizione dell'orologio. Verificare sempre immagini e testo, non anticipare dettagli visivi nelle didascalie.
+
+## Verifica della distribuzione degli indizi (decisioni approvate)
+- Émilie: fazzoletto E.R. trovato nella ricerca iniziale, poi chiavi, martello, taccuino, libro e infine certificato Bardonnet durante il suo interrogatorio. Il sangue è dovuto a un attacco di tosse precedente al 20 settembre; il malore del 20 settembre è un evento reale distinto. Il certificato offre una spiegazione, non un alibi.
+- Jacques: lettere sulla corruzione e altre false piste rendono il sospetto plausibile, ma nessun indizio lo colloca con certezza nello studio durante l'omicidio. Non aggiungere nuove prove per ora.
+- Copione: **battuta finale del commissario dopo l'interrogatorio di Jacques approvata come sostituzione**: «Signor Lefevre, le sue rivalità con Antoine Marceau sono ormai evidenti, così come le ragioni che avrebbe avuto per desiderarne il silenzio. Gli elementi raccolti non dimostrano la sua presenza nello studio al momento dell'omicidio, ma nemmeno la escludono. Le consiglio, pertanto, di non considerare conclusa la sua posizione.»
